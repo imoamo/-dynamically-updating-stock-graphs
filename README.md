@@ -3,7 +3,9 @@
 
 This project is a single-page frontend application that dynamically displays stock graphs by fetching real-time stock data using a backend API. The stock graph updates in real-time as more data is processed on the server.
 
-## Table of Contents
+## Project SS
+
+![Screenshot (80)](https://github.com/user-attachments/assets/55932807-36c5-41c7-8aee-126d6cf86e65)
 
 
 ## Overview
